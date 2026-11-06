@@ -1,3 +1,5 @@
+![A Day in the Life: SOC Analyst (Tier 1)](./banner.svg)
+
 # A Day in the Life: SOC Analyst (Tier 1)
 
 ![Shift Ready: SOC Desk](https://img.shields.io/badge/Shift%20Ready-SOC%20Desk-1F6F78?style=for-the-badge) ![Scenes: 8 of 8](https://img.shields.io/badge/Scenes-8%20of%208-3D4A5C?style=for-the-badge) ![Status: Complete](https://img.shields.io/badge/Status-Complete-2F7A3E?style=for-the-badge)
